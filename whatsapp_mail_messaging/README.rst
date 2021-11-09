@@ -12,17 +12,17 @@ Configuration
 
 Company
 -------
-* `Cybrosys Techno Solutions <https://cybrosys.com/>`__
+* `Nevpro Business Solutions Pvt. Ltd. <https://www.nevprobusinesssolutions.com>`__
 
 Credits
 -------
-* Developers:	Nishad@cybrosys
-                version 14: Sayooj A O @cybrosys
+* Developers:	mohan@nevpro.co.in
+                version 14
 
 Contacts
 --------
-* Mail Contact : odoo@cybrosys.com
-* Website : https://cybrosys.com
+* Mail Contact : info@nevpro.co.in
+* Website : https://www.nevprobusinesssolutions.com
 
 Bug Tracker
 -----------
@@ -30,12 +30,12 @@ Bugs are tracked on GitHub Issues. In case of trouble, please check there if you
 
 Maintainer
 ==========
-.. image:: https://cybrosys.com/images/logo.png
-   :target: https://cybrosys.com
+.. image:: https://www.nevprobusinesssolutions.com/wp-content/uploads/2018/02/cropped-company_logo1-1.png
+   :target: https://www.nevprobusinesssolutions.com
 
-This module is maintained by Cybrosys Technologies.
+This module is maintained by Nevpro Business Solutions Pvt. Ltd..
 
-For support and more information, please visit `Our Website <https://cybrosys.com/>`__
+For support and more information, please visit `Our Website <https://www.nevprobusinesssolutions.com>`__
 
 Further information
 ===================
